@@ -1,0 +1,32 @@
+.login{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.login button{
+    width: 100%;
+    height: 25px;
+    border: none;
+    border-radius: 15px;
+    background-color: cyan;
+    margin-bottom: 15px;
+}
+
+.login button:hover{
+    width: 100%;
+    border: none;
+    border-radius: 15px;
+    background: linear-gradient(90deg, Cyan);
+    cursor: pointer;
+}
+
+.login input{
+    width: 100%;
+    height: 25px;
+    border: none;
+    border-radius: 15px;
+    margin-bottom: 15px;
+   background-color: cyan;
+
+}
